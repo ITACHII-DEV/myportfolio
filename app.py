@@ -12,11 +12,11 @@ def home():
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body{background:#0a0a0a;color:#fff;font-family:'Segoe UI',sans-serif;overflow-x:hidden;}
-nav{position:fixed;top:0;width:100%;background:rgba(10,10,10,0.9);backdrop-filter:blur(10px);padding:15px 30px;display:flex;justify-content:space-between;align-items:center;z-index:100;border-bottom:1px solid #1a1a1a;}
+nav{position:fixed;top:0;width:100%;background:rgba(10,10,10,0.9);backdrop-filter:blur(10px);padding:15px 30px;display:flex;justify-content:space-between;align-items:flex-start;z-index:100;border-bottom:1px solid #1a1a1a;}
 .logo{color:#00d4ff;font-weight:bold;font-size:1.2em;}
 .nav-links a{color:#ccc;text-decoration:none;margin-left:20px;font-size:.9em;transition:.3s;}
 .nav-links a:hover{color:#00d4ff;}
-.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:80px 20px 40px;background:radial-gradient(ellipse at center,#0d1b2a 0%,#0a0a0a 70%);}
+.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:150px 20px 40px;background:radial-gradient(ellipse at center,#0d1b2a 0%,#0a0a0a 70%);}
 .hero-content h1{font-size:2.5em;margin-bottom:10px;}
 .hero-content h1 span{color:#00d4ff;}
 .typing{font-size:1.2em;color:#00d4ff;margin:10px 0;}
