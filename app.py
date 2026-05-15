@@ -16,7 +16,7 @@ nav{position:fixed;top:0;width:100%;background:rgba(10,10,10,0.9);backdrop-filte
 .logo{color:#00d4ff;font-weight:bold;font-size:1.2em;}
 .nav-links a{color:#ccc;text-decoration:none;margin-left:20px;font-size:.9em;transition:.3s;}
 .nav-links a:hover{color:#00d4ff;}
-.hero{min-height:100vh;display:flex;align-items:center;justify-content:center;text-align:center;padding:20px 20px 40px;background:radial-gradient(ellipse at center,#0d1b2a 0%,#0a0a0a 70%);}
+.hero{min-height:100vh;justify-content:center;display:flex;align-items:center;justify-content:center;text-align:center;padding:100px 20px 40px;background:radial-gradient(ellipse at center,#0d1b2a 0%,#0a0a0a 70%);}
 .hero-content h1{font-size:2.5em;margin-bottom:10px;}
 .hero-content h1 span{color:#00d4ff;}
 .typing{font-size:1.2em;color:#00d4ff;margin:10px 0;}
