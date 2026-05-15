@@ -107,7 +107,7 @@ footer{text-align:center;padding:30px;color:#555;border-top:1px solid #1a1a1a;}
 <section id="contact" class="contact-section">
   <h2 class="section-title">Get In <span>Touch</span></h2>
   <p style="color:#aaa;margin-bottom:30px;">Bot banana hai? Website chahiye? Contact karo!</p>
-  <a href="https://wa.me/917643959056" class="contact-btn">💬 WhatsApp</a>
+  <a href="https://wa.me/14382485331" class="contact-btn">💬 WhatsApp</a>
   <a href="https://github.com/ITACHII-DEV" class="contact-btn github-btn">🐙 GitHub</a>
 </section>
 <footer>
